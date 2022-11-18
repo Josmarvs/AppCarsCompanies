@@ -1,8 +1,9 @@
 spring:
+spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/appcarcompany
-    username: postgres
-    password: 1234
+    url: jdbc:postgresql://ec2-3-229-252-6.compute-1.amazonaws.com/dkeauloqk1u9p
+    username: fititcrdmwopcy
+    password: 051e639eef080c4a06a63b8c87a65cbc3dc08af5f1ef698e1a501b5f4edff72c
     driver-class-name: org.postgresql.Driver
   jpa:
     database: postgresql
