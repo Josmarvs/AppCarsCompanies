@@ -1,5 +1,4 @@
 spring:
-spring:
   datasource:
     url: jdbc:postgresql://ec2-3-229-252-6.compute-1.amazonaws.com/dkeauloqk1u9p
     username: fititcrdmwopcy
